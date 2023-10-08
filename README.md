@@ -1,0 +1,2 @@
+# EXTERNAL-PLUGINS
+plugins for GURU BOT
