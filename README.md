@@ -8,11 +8,11 @@
 
  1. To install A Plugin use 
  ```SH
-  .install <plugin url>
+  .install <plugin hit>
  ```
 2. To Delete A Plugin use
  ```SH
-  .remove <plugin name>
+  .remove <plugin hit>
  ```
 3. To See all available Plugins use
  ```SH
